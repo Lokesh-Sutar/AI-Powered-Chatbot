@@ -14,7 +14,7 @@ A simple and modular CLI-based AI chat application with multiple sessions, persi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/udaymehta/easy-chat.git && cd easy-chat
+   git clone https://github.com/Lokesh-Sutar/AI-Powered-Chatbot.git && cd easy-chat
    ```
 2. Install dependencies:
    ```bash
